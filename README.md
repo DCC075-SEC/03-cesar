@@ -100,24 +100,24 @@ Substitua `NOME_DA_PASTA` pelo nome da pasta que contém o arquivo Python.
 
 ### 2. Execute o programa
 
-Se o arquivo se chamar `cifra_cesar.py`, utilize:
+Se o arquivo se chamar `cesar.py`, utilize:
 
 **Windows:**
 
 ```bash
-python cifra_cesar.py
+python cesar.py
 ```
 
 Se o comando `python` não funcionar, tente:
 
 ```bash
-py cifra_cesar.py
+py cesar.py
 ```
 
 **Linux ou macOS:**
 
 ```bash
-python3 cifra_cesar.py
+python3 cesar.py
 ```
 
 ### 4. Utilize o menu interativo
