@@ -160,22 +160,6 @@ Deslocamento k usado na encriptação: 3
 Texto claro: casa
 ```
 
-### Exemplo 3 — Texto com espaços e pontuação
-
-Entrada:
-
-```text
-Texto claro: Ola, mundo!
-Deslocamento k (1 a N): 3
-```
-
-Saída:
-
-```text
-Criptograma: ROD, PXQGR!
-```
-
-Os espaços e os sinais de pontuação permanecem inalterados.
 
 
 
